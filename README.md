@@ -1,4 +1,5 @@
 # hello-world
 first respository
 
-first pull 
+first pull
+sec push
